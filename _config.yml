@@ -1,11 +1,11 @@
 # Site settings
-author: Gabriel Martin
-title: 
+author: Gabriel Martin 
+title: Baby, It's Code Outside
 header-img: img/home-bg.png
 email: gabriel.martin423@gmail.com
-copyright_name: Gabriel Martin
+copyright_name: Gabriel Martin 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey From Novice to Noticed
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Gobi-Wan
